@@ -1,0 +1,28 @@
+body{
+    background-image: url(food.avif);
+}
+form{
+    margin-left: 70px;
+    margin-top: 60px;
+}
+h1{
+    color: rgba(244, 241, 243, 0.973);
+}
+input{
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom-style: double;
+    border-radius: 0%;
+    border-bottom-width: 5px;
+}
+label{
+    color: antiquewhite;
+}
+p{
+    color: aliceblue;
+}
+button{
+    color: cornsilk;
+    background-color: darkgray;
+}
